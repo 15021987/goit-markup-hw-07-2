@@ -1331,17 +1331,17 @@ padding-bottom: 24px;
   } */
   /*//===============Servis Work===============*/
 
-  /* @media screen and (max-width:1199px){
+  /* @media screen  and (max-width:1199px){
     .service{
       display:none;
     }
-  } */
-@media screen and (max-width:px) {
+  }  */
+/* @media screen and (max-width: 767px) {
   .service {
     display: none;
   }
 
-}
+} */
 
   .service {
     padding-top: 0;
@@ -2068,7 +2068,6 @@ screen and (min-width:768px) and (min-resolution: 2dppx){
     
     color: #FFFFFF;
   }
-
   .modal{
     padding-left: 24px;
       padding-right: 24px;
@@ -2094,6 +2093,9 @@ screen and (min-width:768px) and (min-resolution: 2dppx){
     flex-basis: calc((100% - 24px)/2);
     margin: 0;
  }
+ .line {
+    flex-basis: calc((100% - 24px)/2);
+ }
   
  
 .service{
@@ -2110,6 +2112,7 @@ screen and (min-width:768px) and (min-resolution: 2dppx){
 
     column-gap: 24px;
     row-gap: 64px;
+
 }
 /* .line:not(:last-child) */
 
