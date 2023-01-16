@@ -1,3 +1,24 @@
+
+https://varvaranechaieva.github.io/goit-markup-hw-07/
+
+
+https://nodejs.org/uk/
+
+https://github.com/goitacademy/parcel-project-template
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*Studio*/
  /*Logo*/
 
