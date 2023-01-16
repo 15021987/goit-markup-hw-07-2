@@ -2017,7 +2017,13 @@ color: #E7E9FC;
 } */
 
 /*===========================Footer=============================//*/
+@media screen and (max-width:479px) {
+.line-our  {
+ 
+padding-left: 82px;
 
+}
+}
 
 @media screen and (min-width:768px) {
 
@@ -2124,7 +2130,7 @@ screen and (min-width:768px) and (min-resolution: 2dppx){
 display: flex;
  flex-wrap: wrap;
   gap: 24px;
-padding-left: 82px;
+padding-left: 108px;
 
 }
 
